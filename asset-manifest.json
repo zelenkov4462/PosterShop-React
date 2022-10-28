@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PosterShop-React/static/css/main.05b98dd1.css",
+    "main.js": "/PosterShop-React/static/js/main.821fa480.js",
+    "static/media/home-bg.jpeg": "/PosterShop-React/static/media/home-bg.f987af55e4022fb5370e.jpeg",
+    "static/media/main-bg.jpg": "/PosterShop-React/static/media/main-bg.254717a710cc48117b08.jpg",
+    "static/media/rdr.jpg": "/PosterShop-React/static/media/rdr.02cefd4187d63f1f562d.jpg",
+    "static/media/lastOfUs.jpg": "/PosterShop-React/static/media/lastOfUs.3b405007a1b0dfefb93b.jpg",
+    "static/media/fallout.jpg": "/PosterShop-React/static/media/fallout.6de13d62dbd96598959b.jpg",
+    "static/media/godOfWar.jpg": "/PosterShop-React/static/media/godOfWar.486ca955e9a3c12254e3.jpg",
+    "static/media/divinity.jpg": "/PosterShop-React/static/media/divinity.9b1a32392602dddd1518.jpg",
+    "static/media/witcher.jpg": "/PosterShop-React/static/media/witcher.bd0e9c70edc02512500c.jpg",
+    "static/media/diablo.jpg": "/PosterShop-React/static/media/diablo.1f1957b4969862c54b90.jpg",
+    "static/media/gta.jpg": "/PosterShop-React/static/media/gta.78cfc32f6157a4ce7a7b.jpg",
+    "static/media/cyberpunk.jpg": "/PosterShop-React/static/media/cyberpunk.11ab10cd861e8c067f17.jpg",
+    "static/media/metro.jpg": "/PosterShop-React/static/media/metro.555002930e5809b8c5fb.jpg",
+    "index.html": "/PosterShop-React/index.html",
+    "main.05b98dd1.css.map": "/PosterShop-React/static/css/main.05b98dd1.css.map",
+    "main.821fa480.js.map": "/PosterShop-React/static/js/main.821fa480.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05b98dd1.css",
+    "static/js/main.821fa480.js"
+  ]
+}
